@@ -60,3 +60,20 @@ Total 11 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
 To https://github.com/lmsu/rotacion-img.git
  * [new branch]      main -> main
 branch 'main' set up to track 'origin/main'.
+
+PS C:\Users\LUIS SALINAS\Desktop\Desarrollos web\proyectos\43-rotating images> git push
+To https://github.com/lmsu/rotacion-img.git
+ ! [rejected]        repo -> repo (non-fast-forward)
+error: failed to push some refs to 'https://github.com/lmsu/rotacion-img.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. If you want to integrate the remote changes,
+hint: use 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+PS C:\Users\LUIS SALINAS\Desktop\Desarrollos web\proyectos\43-rotating images> git push -u origin repo
+To https://github.com/lmsu/rotacion-img.git
+ ! [rejected]        repo -> repo (non-fast-forward)
+error: failed to push some refs to 'https://github.com/lmsu/rotacion-img.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. If you want to integrate the remote changes,
+hint: use 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
